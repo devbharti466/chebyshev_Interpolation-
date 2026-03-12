@@ -1,1 +1,0 @@
-"""Chebyshev Interpolation project package."""
