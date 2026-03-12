@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-*.pyo
-.DS_Store
-
-# Exclude generated results but keep the directory marker
-results/*.png
-results/*.csv
-!results/.gitkeep
